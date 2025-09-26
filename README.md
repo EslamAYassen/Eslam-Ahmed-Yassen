@@ -37,13 +37,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Eslam’s GitHub stats](https://github-readme-stats.vercel.app/api?username=EslamAYassen&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EslamAYassen&layout=compact&theme=radical)  
-
----
-
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eslamahmedyassen)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)](https://github.com/EslamAYassen)  
